@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="0.9.3"></a>
+## [0.9.3](https://github.com/securedeveloper/react-data-export/compare/v0.9.2...v0.9.3) (2024-02-05)
+
+
+
 <a name="0.9.2"></a>
 ## [0.9.2](https://github.com/securedeveloper/react-data-export/compare/v0.9.1...v0.9.2) (2024-02-05)
 
