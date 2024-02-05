@@ -22,7 +22,7 @@
   "homepage": "https://github.com/securedeveloper/react-data-export#readme",
   "dependencies": {
     "file-saver": "^2.0.5",
-    "tempa-xlsx": "github:cherokee-saas/tempa-xlsx#v0.9.0"
+    "tempa-xlsx": "github:cherokee-saas/tempa-xlsx#v0.10.0"
   },
   "devDependencies": {
     "@commitlint/cli": "6.1.3",
